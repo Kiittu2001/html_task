@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Huddle</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="logo">
+                <img src="https://www.huddle.com/assets/images/logo-dark.svg" alt="Huddle Logo">
+            </div>
+            <nav>
+                <ul>
+                    <li><a href="#">Try It Free</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <section class="hero">
+        <div class="container">
+            <h1>Build The Community Your Fans Will Love</h1>
+            <p>Huddle re-imagines the way we build communities. You have a voice, but so does your audience. Create connections with your users as you engage in genuine discussion.</p>
+            <button class="btn">Get Started For Free</button>
+            <div class="stats">
+                <div class="stat">
+                    <img src="https://www.huddle.com/assets/images/icons/users.svg" alt="Users Icon">
+                    <h3>1.4k+</h3>
+                    <p>Communities Formed</p>
+                </div>
+                <div class="stat">
+                    <img src="https://www.huddle.com/assets/images/icons/chat.svg" alt="Chat Icon">
+                    <h3>2.7m+</h3>
+                    <p>Messages Sent</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="feature">
+        <div class="container">
+            <div class="feature-item">
+                <h2>Grow Together</h2>
+                <p>Generate meaningful discussions with your audience and build a strong, loyal community. Think of the insightful conversations you miss out on with a feedback form.</p>
+                <img src="https://www.huddle.com/assets/images/features/grow-together.svg" alt="Grow Together Illustration">
+            </div>
+            <div class="feature-item">
+                <h2>Flowing Conversations</h2>
+                <p>You wouldn't paginate a conversation in real life, so why do it online? Our threads have just-in-time loading for a more natural flow.</p>
+                <img src="https://www.huddle.com/assets/images/features/flowing-conversations.svg" alt="Flowing Conversations Illustration">
+            </div>
+            <div class="feature-item">
+                <h2>Your Users</h2>
+                <p>It takes no time at all to integrate Huddle with your app's authentication solution. This means, once signed in to your app, your users can start chatting immediately.</p>
+                <img src="https://www.huddle.com/assets/images/features/your-users.svg" alt="Your Users Illustration">
+            </div>
+        </div>
+    </section>
+    <section class="cta">
+        <div class="container">
+            <h2>Ready To Build Your Community?</h2>
+            <button class="btn">Get Started For Free</button>
+        </div>
+    </section>
+    <footer>
+        <div class="container">
+            <div class="footer-left">
+                <img src="https://www.huddle.com/assets/images/logo-light.svg" alt="Huddle Logo">
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris nulla quam, hendrerit lacinia vestibulum a, ultrices quis sem.</p>
+                <ul class="social-links">
+                    <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                    <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+                    <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                </ul>
+            </div>
+            <div class="footer-right">
+                <h3>Newsletter</h3>
+                <p>To recieve tips on how to grow your community, sign up to our weekly newsletter. We'll never send you spam or pass on your email address</p>
+                <form>
+                    <input type="email" placeholder="Enter your email address" required>
+                    <button type="submit" class="btn">Subscribe</button>
+                </form>
+            </div>
+        </div>
+    </footer>
+    <script src="https://kit.fontawesome.com/your-fontawesome-kit-id.js" crossorigin="anonymous"></script>
+</body>
+</html>
